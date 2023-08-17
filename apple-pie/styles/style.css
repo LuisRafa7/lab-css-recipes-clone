@@ -22,3 +22,53 @@ body {
 
 /* STYLES */
 /* Write your CSS below */
+
+.row1 {
+  background-image: url(../images/apple-pie.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+  width: 70%;
+  margin: auto;
+}
+
+h1 {
+  margin: 450px 0 500px 0;
+  text-align: center;
+  font-size: 80px;
+  color: white;
+}
+
+.row2 {
+  width: 60%;
+  color: black;
+  font-size: 20px;
+  text-align: center;
+  margin: auto;
+}
+
+.p1 {
+  padding: 40px 0 40px 0;
+}
+
+h3 {
+  padding: 40px 0 40px 0;
+  font-size: 35px;
+}
+
+.row3 {
+  width: 60%;
+  color: black;
+  font-size: 20px;
+  text-align: left;
+  margin: auto;
+}
+
+.img1 {
+  padding: 40px 0 40px 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
